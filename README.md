@@ -1,7 +1,7 @@
 # Odo API - Vehicle Shift Tracking System
 
-[![Java](https://img.shields.io/badge/Java-Supported-orange.svg)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Supported-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.4-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Flyway](https://img.shields.io/badge/Database-Flyway%20Migrations-red.svg)](https://flywaydb.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
